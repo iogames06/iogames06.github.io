@@ -1,0 +1,35 @@
+#katt {
+    background-image: url("../bilder/Deeeep.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    color: black;
+    width: 50px;
+}
+
+#potatis {
+    background-image: url("../bilder/agar.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    color: black;
+    width: 50px;
+
+
+}
+
+#mjau {
+    background-image: url("../bilder/krew.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    color: black;
+    width: 50px;
+
+#18a6e2
+
+   p {
+    color: blue;
+    background-color: #18a6e2;
+    font-size: 18px;
+}
